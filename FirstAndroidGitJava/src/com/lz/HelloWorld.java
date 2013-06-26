@@ -10,9 +10,6 @@ package com.lz;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        String week = "周四";
-        String need_week = week.replace("周","星期");
-        System.out.println(need_week);
         System.out.println("Hello World!");
     }
 
