@@ -1,8 +1,10 @@
 MyTest
 ======
 
-every test
+fastjson test
 
 学习用的测试小例子
 
-第一个例子fastjson 测试
+FirstGitJava ----->  fastjson 测试 for Java
+
+FirstAndroidGitJava ------> fastjson 测试 for android
